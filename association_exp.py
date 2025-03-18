@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 21 10:27:22 2025
-
-@author: genai
-"""
 
 import numpy as np
 import scipy.io as sio
