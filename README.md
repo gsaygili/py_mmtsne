@@ -1,6 +1,23 @@
 # py_mmtsne
+
 Python implementation of multiple maps tsne
 
+
+You may follow the steps outlined below to execute the code:
+
+creating conda environment using terminal:
+
+> conda env create -f env.yml
+
+activating conda environment:
+
+> conda activate multmaps
+
+opening jupyter notebook to run ipyb file (mm_tsne.ipynb):
+
+> jupyter notebook
+
+You may open mm_tsne.ipynb file afterwards and run the cells.
 
 Important Note: This code is under MIT License:
 
