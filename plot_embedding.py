@@ -1,7 +1,6 @@
 from matplotlib import pyplot as plt
 import numpy as np
 
-
 def plot_tsne_mnistemb(X,y):
         plt.figure()
         
